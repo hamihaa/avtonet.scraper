@@ -1,2 +1,2 @@
 # avtonet.scraper
-PHP avto.net crawler
+PHP avto.net crawler snippet 
