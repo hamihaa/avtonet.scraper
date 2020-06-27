@@ -1,0 +1,19 @@
+{
+    "name": "miha/avtonet.scraper",
+    "description": "Avtonet scraper",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "Miha Babič",
+            "email": "miha.babic@hotmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "Avtonet\\" : "src/"
+        }
+    }
+}
