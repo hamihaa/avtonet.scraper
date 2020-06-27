@@ -1,7 +1,9 @@
 {
-    "name": "miha/avtonet.scraper",
+    "name": "hamihaa/avtonet.scraper",
     "description": "Avtonet scraper",
-    "type": "project",
+    "keywords": ["php","avtonet","scraper"],
+    "type": "library",
+    "license": "MIT",
     "require": {
         "fabpot/goutte": "^4.0"
     },
