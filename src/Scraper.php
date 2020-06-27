@@ -7,11 +7,6 @@ use Symfony\Component\HttpClient\HttpClient;
 
 class Scraper {
 
-    public function test()
-    {
-        echo 'hello world';
-    }
-
     public function run()
     {
     $client = new Client(HttpClient::create());
